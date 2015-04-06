@@ -149,4 +149,8 @@
     <orderEntry type="library" scope="PROVIDED" name="treetop (v1.4.15, rbenv: 1.9.3-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.43, rbenv: 1.9.3-p0) [gem]" level="application" />
   </component>
+  <component name="RModuleSettingsStorage">
+    <LOAD_PATH number="0" />
+    <I18N_FOLDERS number="1" string0="$MODULE_DIR$/config/locales" />
+  </component>
 </module>
